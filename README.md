@@ -10,7 +10,7 @@ This repository is dedicated to showcasing and sharing the details of my persona
 - **RAM:** 24 GB
 - **Storage:** 512 GB SSD
 
-### 🖱️ Peripherals
+### 🖱️ Peripherals & Accessories
 - **Keyboard:** Glorious Gaming GMMK 2 Full Size (96%)
 - **Mouse:** Glorious Gaming Model O
 - **Monitor:** Lenovo 27N27p (27", 4K IPS)
