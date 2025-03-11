@@ -17,6 +17,10 @@ This repository is dedicated to showcasing and sharing the details of my persona
 - **Mousepad:** Glorious
 - **Wrist Rest:** Glorious
 
+### 🏠 Desk Setup
+- **Desk:** Mars Gaming MGD  
+- **Chair:** Corsair T3 Rush 
+
 ### 🎧 Audio
 - **Headphones:** AirPods Pro 2 (Bluetooth)
 
